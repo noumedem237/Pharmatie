@@ -1,16 +1,35 @@
 # pharma
 
-A new Flutter project.
+# 💊 pharma – Application Mobile de Disponibilité des Médicaments
 
-## Getting Started
+**pharma** est une application mobile conçue pour aider les utilisateurs à **trouver facilement la disponibilité d’un médicament** dans les pharmacies les plus proches. Elle connecte les patients, les pharmacies et les professionnels de la santé à travers une plateforme simple, rapide et efficace.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Fonctionnalités principales
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- 🔍 Recherche d’un médicament par nom
+- 📍 Localisation des pharmacies disponibles
+- ✅ Statut de disponibilité en temps réel
+- 🛒 Listing des pharmacies de garde les weekend
+- 👨‍⚕️ Espace pharmacie pour la mise à jour de l’inventaire
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ⚙️ Architecture du projet
+
+- **Frontend** : Application mobile (Flutter ou autre, selon ton stack)
+- **Backend** : Développé en **PHP**
+- **Base de données** : MySQL (hébergé chez [00Webhost](https://www.000webhost.com/))
+- **Hébergement backend** : [00Webhost](https://www.000webhost.com/) (Gratuit)
+
+---
+
+## 🚀 Lancer le projet
+
+### 📦 Backend
+
+1. Cloner le dépôt :
+
+```bash
+git clone ...............
